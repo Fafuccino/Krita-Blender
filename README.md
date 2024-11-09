@@ -1,5 +1,6 @@
 ## faf_krita_blender.py
-Replace the Ctrl+S by this script
+I suggest you replace the Ctrl+S by this script
+
 When editing a .kra / .krz, running this script will save the document and generate a .png file with the same name as the document.
 It also disables hides any node (layer / group) named "UV" when it exports the .png, then reenables it back if it was enabled initially.
 
